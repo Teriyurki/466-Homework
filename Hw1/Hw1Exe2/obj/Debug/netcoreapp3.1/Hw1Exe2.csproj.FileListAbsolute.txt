@@ -1,0 +1,13 @@
+C:\Users\Wayla\source\repos\466 Homework\Hw1\Hw1\Hw1Exe2\bin\Debug\netcoreapp3.1\Hw1Exe2.exe
+C:\Users\Wayla\source\repos\466 Homework\Hw1\Hw1\Hw1Exe2\bin\Debug\netcoreapp3.1\Hw1Exe2.deps.json
+C:\Users\Wayla\source\repos\466 Homework\Hw1\Hw1\Hw1Exe2\bin\Debug\netcoreapp3.1\Hw1Exe2.runtimeconfig.json
+C:\Users\Wayla\source\repos\466 Homework\Hw1\Hw1\Hw1Exe2\bin\Debug\netcoreapp3.1\Hw1Exe2.runtimeconfig.dev.json
+C:\Users\Wayla\source\repos\466 Homework\Hw1\Hw1\Hw1Exe2\bin\Debug\netcoreapp3.1\Hw1Exe2.dll
+C:\Users\Wayla\source\repos\466 Homework\Hw1\Hw1\Hw1Exe2\bin\Debug\netcoreapp3.1\Hw1Exe2.pdb
+C:\Users\Wayla\source\repos\466 Homework\Hw1\Hw1\Hw1Exe2\obj\Debug\netcoreapp3.1\Hw1Exe2.csprojAssemblyReference.cache
+C:\Users\Wayla\source\repos\466 Homework\Hw1\Hw1\Hw1Exe2\obj\Debug\netcoreapp3.1\Hw1Exe2.AssemblyInfoInputs.cache
+C:\Users\Wayla\source\repos\466 Homework\Hw1\Hw1\Hw1Exe2\obj\Debug\netcoreapp3.1\Hw1Exe2.AssemblyInfo.cs
+C:\Users\Wayla\source\repos\466 Homework\Hw1\Hw1\Hw1Exe2\obj\Debug\netcoreapp3.1\Hw1Exe2.csproj.CoreCompileInputs.cache
+C:\Users\Wayla\source\repos\466 Homework\Hw1\Hw1\Hw1Exe2\obj\Debug\netcoreapp3.1\Hw1Exe2.dll
+C:\Users\Wayla\source\repos\466 Homework\Hw1\Hw1\Hw1Exe2\obj\Debug\netcoreapp3.1\Hw1Exe2.pdb
+C:\Users\Wayla\source\repos\466 Homework\Hw1\Hw1\Hw1Exe2\obj\Debug\netcoreapp3.1\Hw1Exe2.genruntimeconfig.cache
