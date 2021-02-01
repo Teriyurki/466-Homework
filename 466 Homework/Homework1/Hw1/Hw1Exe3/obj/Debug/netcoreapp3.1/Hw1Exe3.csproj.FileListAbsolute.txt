@@ -1,0 +1,13 @@
+C:\Users\Wayla\source\repos\466 Homework\Hw1Exe3\bin\Debug\netcoreapp3.1\Hw1Exe3.exe
+C:\Users\Wayla\source\repos\466 Homework\Hw1Exe3\bin\Debug\netcoreapp3.1\Hw1Exe3.deps.json
+C:\Users\Wayla\source\repos\466 Homework\Hw1Exe3\bin\Debug\netcoreapp3.1\Hw1Exe3.runtimeconfig.json
+C:\Users\Wayla\source\repos\466 Homework\Hw1Exe3\bin\Debug\netcoreapp3.1\Hw1Exe3.runtimeconfig.dev.json
+C:\Users\Wayla\source\repos\466 Homework\Hw1Exe3\bin\Debug\netcoreapp3.1\Hw1Exe3.dll
+C:\Users\Wayla\source\repos\466 Homework\Hw1Exe3\bin\Debug\netcoreapp3.1\Hw1Exe3.pdb
+C:\Users\Wayla\source\repos\466 Homework\Hw1Exe3\obj\Debug\netcoreapp3.1\Hw1Exe3.csprojAssemblyReference.cache
+C:\Users\Wayla\source\repos\466 Homework\Hw1Exe3\obj\Debug\netcoreapp3.1\Hw1Exe3.AssemblyInfoInputs.cache
+C:\Users\Wayla\source\repos\466 Homework\Hw1Exe3\obj\Debug\netcoreapp3.1\Hw1Exe3.AssemblyInfo.cs
+C:\Users\Wayla\source\repos\466 Homework\Hw1Exe3\obj\Debug\netcoreapp3.1\Hw1Exe3.csproj.CoreCompileInputs.cache
+C:\Users\Wayla\source\repos\466 Homework\Hw1Exe3\obj\Debug\netcoreapp3.1\Hw1Exe3.dll
+C:\Users\Wayla\source\repos\466 Homework\Hw1Exe3\obj\Debug\netcoreapp3.1\Hw1Exe3.pdb
+C:\Users\Wayla\source\repos\466 Homework\Hw1Exe3\obj\Debug\netcoreapp3.1\Hw1Exe3.genruntimeconfig.cache
