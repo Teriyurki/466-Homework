@@ -1,0 +1,6 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=58e965c7_002D60fb_002D4d2e_002D9e9c_002D67fe54e14fc2/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="NotFailWithNoItemsNotificationNoCreditCard" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::C1301D59-47B0-4D64-8A3C-97AC9354B845::.NETFramework,Version=v4.6.1::HW4EX2B4.TightCoupling.OrderCheckoutShould&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
