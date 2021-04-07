@@ -1,0 +1,13 @@
+C:\Users\Wayland\source\repos\ITC 466\HW4\HW4EX1\HW4EX1PT2\bin\Debug\netcoreapp3.1\HW4EX1PT2.exe
+C:\Users\Wayland\source\repos\ITC 466\HW4\HW4EX1\HW4EX1PT2\bin\Debug\netcoreapp3.1\HW4EX1PT2.deps.json
+C:\Users\Wayland\source\repos\ITC 466\HW4\HW4EX1\HW4EX1PT2\bin\Debug\netcoreapp3.1\HW4EX1PT2.runtimeconfig.json
+C:\Users\Wayland\source\repos\ITC 466\HW4\HW4EX1\HW4EX1PT2\bin\Debug\netcoreapp3.1\HW4EX1PT2.runtimeconfig.dev.json
+C:\Users\Wayland\source\repos\ITC 466\HW4\HW4EX1\HW4EX1PT2\bin\Debug\netcoreapp3.1\HW4EX1PT2.dll
+C:\Users\Wayland\source\repos\ITC 466\HW4\HW4EX1\HW4EX1PT2\bin\Debug\netcoreapp3.1\HW4EX1PT2.pdb
+C:\Users\Wayland\source\repos\ITC 466\HW4\HW4EX1\HW4EX1PT2\obj\Debug\netcoreapp3.1\HW4EX1PT2.csprojAssemblyReference.cache
+C:\Users\Wayland\source\repos\ITC 466\HW4\HW4EX1\HW4EX1PT2\obj\Debug\netcoreapp3.1\HW4EX1PT2.AssemblyInfoInputs.cache
+C:\Users\Wayland\source\repos\ITC 466\HW4\HW4EX1\HW4EX1PT2\obj\Debug\netcoreapp3.1\HW4EX1PT2.AssemblyInfo.cs
+C:\Users\Wayland\source\repos\ITC 466\HW4\HW4EX1\HW4EX1PT2\obj\Debug\netcoreapp3.1\HW4EX1PT2.csproj.CoreCompileInputs.cache
+C:\Users\Wayland\source\repos\ITC 466\HW4\HW4EX1\HW4EX1PT2\obj\Debug\netcoreapp3.1\HW4EX1PT2.dll
+C:\Users\Wayland\source\repos\ITC 466\HW4\HW4EX1\HW4EX1PT2\obj\Debug\netcoreapp3.1\HW4EX1PT2.pdb
+C:\Users\Wayland\source\repos\ITC 466\HW4\HW4EX1\HW4EX1PT2\obj\Debug\netcoreapp3.1\HW4EX1PT2.genruntimeconfig.cache
